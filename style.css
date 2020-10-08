@@ -11,14 +11,15 @@ body {
 }
 
 .about-me-saturn {
-  width: 100px;
+  width: 200px;
   float: left;
+  padding: 20px;
 }
 
 .clearfix::after {
-  content: "";
+  content: " ";
+  display: block;
   clear: both;
-  display: table;
 }
 
 .card-footer {
