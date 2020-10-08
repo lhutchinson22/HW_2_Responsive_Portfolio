@@ -5,8 +5,20 @@ body {
 .container-box {
   width: 500px;
   padding: 50px;
-  margin-top: 20px;
+  margin-top: 80px;
+  margin-bottom: 80px;
   background-color: white;
+}
+
+.about-me-saturn {
+  width: 100px;
+  float: left;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .card-footer {
