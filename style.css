@@ -37,3 +37,6 @@ body {
   position: relative;
   bottom: 0px;
 }
+.img-thumbnail {
+  width: 300px;
+}
