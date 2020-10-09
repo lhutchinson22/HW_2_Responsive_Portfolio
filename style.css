@@ -2,9 +2,11 @@ body {
   background-color: lightslategray;
 }
 
-/* div#navbarSupportedContent {
-  text-align: right;
-} */
+h1,
+p {
+  font-family: "Fira Sans", sans-serif;
+  font-family: "Secular One", sans-serif;
+}
 
 .container {
   position: relative;
