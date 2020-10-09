@@ -3,10 +3,15 @@ body {
 }
 
 h1,
+h2,
 p {
   font-family: "Fira Sans", sans-serif;
   font-family: "Secular One", sans-serif;
 }
+
+/* #navbarSupportedContent {
+  float: right;
+} */
 
 .container {
   position: relative;
@@ -31,6 +36,11 @@ p {
   content: " ";
   display: block;
   clear: both;
+}
+
+.social-media-div {
+  background-color: white;
+  width: 300px;
 }
 
 .card-footer {
