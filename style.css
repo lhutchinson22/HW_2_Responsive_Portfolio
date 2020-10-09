@@ -1,5 +1,5 @@
 body {
-  background-color: lightslategray;
+  background-image: url(./Assets/Images/44911446704_8e74b38b42_o.width-2500.jpg);
 }
 
 h1,
@@ -8,10 +8,6 @@ p {
   font-family: "Fira Sans", sans-serif;
   font-family: "Secular One", sans-serif;
 }
-
-/* #navbarSupportedContent {
-  float: right;
-} */
 
 .container {
   position: relative;
